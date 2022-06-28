@@ -67,7 +67,7 @@ dependencies:
   # 选择时视频播放器
   video_player: ^2.2.2
   # 权限配置
-  permission_handler: ^8.0.0
+  permission_handler: ^9.0.2
   # 图片保存
   image_gallery_saver: ^1.7.1
   # 轮播

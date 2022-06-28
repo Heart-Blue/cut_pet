@@ -47,5 +47,8 @@
 		<true/>
 		<key>UIStatusBarHidden</key>
 		<false/>
+		<!-- 添加获取相册权限 -->
+		<key>NSPhotoLibraryAddUsageDescription</key>
+		<string>Request to select image</string>
 	</dict>
 </plist>
